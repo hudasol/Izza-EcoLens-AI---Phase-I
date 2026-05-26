@@ -1,0 +1,6 @@
+0 PET Plastic Bottles
+1 Aluminum 
+2 Paper Waste
+3 General Waste
+4 Organic Waste
+5 Speciality Handling 

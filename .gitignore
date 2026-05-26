@@ -1,0 +1,18 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE Settings
+.vscode/
+
+# Large Model Archives (Keeping the repo lean)
+*.zip
+other files/versions of the teachable machine/
+
+# Local Data/Logs (Optional: keep these if you want to show sample data)
+# ecolens_audit_log.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
